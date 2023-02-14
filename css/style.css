@@ -7,7 +7,7 @@
 }
 
 main{
-    width: 70%;
+    width: 60%;
     margin: 0 auto;
 }
 
@@ -20,7 +20,7 @@ header{
     margin-bottom: 80px;
 }
 
-.logo, h1{
+.logo, h1 {
     display: inline-block;
     font-size: 45px;
     vertical-align: middle;
@@ -37,7 +37,7 @@ header div img{
 
 button, input{
     padding: 8px 10px;
-    border-radius: 10%;
+    border-radius: 10px;
 }
 
 input{
@@ -48,18 +48,22 @@ button{
     color: white;
     background-color: rgb(38, 160, 241);
     border: rgb(38, 160, 241) solid ;
-    border-radius: 10%;
+    border-radius: 10px;
 }
 
 .line{
     margin-bottom: 25px;
 }
 
+.main-section{
+    margin-bottom: 60px;
+}
+
 h3{
     margin-bottom: 16px;
 }
 
-.Check-mark{
+.check-mark{
     color: green;
     background-color: white;
     border: green solid 1px;
@@ -69,7 +73,7 @@ h3{
     margin-right: 11px;
 }
 
-.Cross{
+.cross{
     color: red;
     background-color: white;
     border: red solid 1px;
@@ -84,43 +88,38 @@ h3{
 }
 
 .label{
-    border-radius: 22%;
+    border-radius: 22px;
     padding: 5px;
     font-size: 10px;
+    color: white;
 }
 
 .label.editorial{
     background-color:rgb(38, 160, 241);
-    color: white;
     border:rgb(38, 160, 241) solid 1px;
 }
 
 .label.Q1-Goals{
     background-color:rgb(122, 43, 196);
-    color: white;
     border:rgb(122, 43, 196) solid 1px;
 }
 
 .label.Recruiting{
     background-color:rgb(43, 190, 141);
-    color: white;
     border:rgb(43, 190, 141) solid 1px;
 }
 
 .label.Mobile{
     background-color:rgb(230, 162, 18);
-    color: white;
     border:rgb(230, 162, 18) solid 1px;
 }
 
 .label.Website{
     background-color:rgb(151, 23, 141);
-    color: white;
     border:rgb(151, 23, 141) solid 1px;
 }
 
 .label.Sales{
     background-color:rgb(84, 160, 33);
-    color: white;
     border:rgb(84, 160, 33) solid 1px;
 }
