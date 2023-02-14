@@ -102,13 +102,25 @@ h3{
 }
 
 .label.Recruiting{
-    background-color:rgb(54, 136, 81);
+    background-color:rgb(43, 190, 141);
     color: white;
-    border:rgb(54, 136, 81) solid 1px;
+    border:rgb(43, 190, 141) solid 1px;
 }
 
 .label.Mobile{
     background-color:rgb(230, 162, 18);
     color: white;
     border:rgb(230, 162, 18) solid 1px;
+}
+
+.label.Website{
+    background-color:rgb(151, 23, 141);
+    color: white;
+    border:rgb(151, 23, 141) solid 1px;
+}
+
+.label.Sales{
+    background-color:rgb(84, 160, 33);
+    color: white;
+    border:rgb(84, 160, 33) solid 1px;
 }
